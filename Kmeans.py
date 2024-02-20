@@ -9,7 +9,7 @@ DataSet = pd.read_csv("MidtermProject-part2-data.csv")
 def EuclideanDistance(centroid, point):
     distance = np.linalg.norm(centroid - point)
     return distance
-
+#distance = math.sqrt(sum(pow(centroid - point, 2)))
 
 # finds nearest centroid for the point
 def FindNearestCentroid(centroidArr, point):

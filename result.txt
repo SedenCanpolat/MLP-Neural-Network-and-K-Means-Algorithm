@@ -642,10 +642,10 @@ Record 214:	Cluster 1
 Record 214:	Cluster 2
 Record 214:	Cluster 3
 
-Cluster 1: 49 records
-Cluster 2: 121 records
-Cluster 3: 44 records
+Cluster 1: 162 records
+Cluster 2: 29 records
+Cluster 3: 23 records
 
-WCSS: 29.185963048384
-BCSS: 30.272194332242897
-Dunn Index: 0.1972172172406238
+WCSS: 28.622897441090455
+BCSS: 50.98099144843798
+Dunn Index: 0.3292448360166628
